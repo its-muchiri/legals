@@ -1,0 +1,206 @@
+{
+  "template_meta": {
+    "site": "Greenafrica Agri Solutions",
+    "site_url": "https://greenafrica.co.ke",
+    "author": "Greenafrica Team",
+    "language": "en",
+    "word_count_min": 1000,
+    "word_count_max": 1500,
+    "tone": "professional, informative, locally relevant",
+    "brand_voice": "trustworthy, expert, community-focused, sustainable,reliable,innovative,customer-centric,solution-oriented,collaborative,transparent,experienced,passionate,ethical,responsible,forward-thinking,adaptable,resilient,empathetic,proactive,results-driven",
+  },
+
+  "company_info": {
+    "name": "Greenafrica Agri Solutions",
+    "phone_1": "+254 727 67 97 92",
+    "email_1": "info@greenafrica.co.ke",
+    "email_2": "Greenafricaagrisolutions@gmail.com",
+    "address": "Mpaka House, Westlands, Nairobi, Kenya",
+    "hours": "Monday to Friday, 9:00 AM to 7:00 PM"
+  },
+
+  "internal_links": {
+    "homepage": "https://greenafrica.co.ke/",
+    "about": "https://greenafrica.co.ke/about/",
+    "services": "https://greenafrica.co.ke/services-v-1/",
+    "testimonials": "https://greenafrica.co.ke/testimonials/",
+    "contact": "https://greenafrica.co.ke/contact/",
+    "blog": "https://greenafrica.co.ke/blog-standard/"
+  },
+
+  "target_locations": [
+    "Migori", "Mombasa", "Kisumu", "Nandi", "Eldoret",
+    "Thika", "Nyeri", "Kisii", "Meru", "Machakos",
+    "Kitui", "Garissa", "Kakamega", "Msambweni", "kwale"
+  ],
+
+  "service_categories": [
+    "Construction Services",
+    "Consulting Services",
+    "Agri Solutions",
+    "Supplies Services",
+    "Civil Engineering",
+    "Water and Sewerage Treatment",
+    "Business Planning",
+    "Risk Management",
+    "Architectural Drawings",
+    "Industrial and Domestic Plumbing",
+    "Roads and Car Parking"
+  ],
+
+  "lsi_keyword_bank": [
+    "sustainable development Kenya",
+    "agricultural consulting East Africa",
+    "construction company Nairobi",
+    "civil engineering Kenya",
+    "agribusiness Kenya",
+    "project management Kenya",
+    "water treatment Kenya",
+    "stakeholder relations Kenya",
+    "business growth Kenya",
+    "environmental solutions Africa",
+    "green building Kenya",
+    "infrastructure development Kenya",
+    "smallholder farmers Kenya",
+    "value chain development",
+    "NCA certified contractor Kenya"
+  ],
+
+  "transition_words": [
+    "Furthermore", "Moreover", "Additionally", "Therefore",
+    "Consequently", "However", "Meanwhile", "Subsequently",
+    "For instance", "For example", "Similarly", "Likewise",
+    "As a result", "In fact", "Conversely", "Nevertheless"
+  ],
+
+  "seo_rules": {
+    "focus_keyword_in_h1": true,
+    "focus_keyword_in_first_paragraph": true,
+    "focus_keyword_in_meta_title": true,
+    "focus_keyword_in_meta_description": true,
+    "focus_keyword_in_at_least_one_h2": true,
+    "keyword_density_percent_max": 2.5,
+    "transition_word_coverage_percent_min": 30,
+    "sentences_under_20_words_percent_min": 75,
+    "max_paragraph_words": 200,
+    "max_section_words_before_subheading": 300,
+    "internal_links_min": 4,
+    "faq_count": 5
+  },
+
+  "article_structure": [
+    {
+      "section": "meta",
+      "fields": {
+        "meta_title": "{focus_keyword} in {location} | Greenafrica Agri Solutions",
+        "meta_description": "Looking for {focus_keyword} in {location}, Kenya? Greenafrica Agri Solutions delivers expert {service_category} across {location} and major Kenyan cities. Call {phone_1} today.",
+        "slug": "{focus_keyword_slug}-{location_slug}",
+        "category": "{service_category}",
+        "tags": ["{focus_keyword}", "{location}", "Kenya", "{service_category}", "Greenafrica Agri Solutions"]
+      }
+    },
+    {
+      "section": "h1_intro",
+      "heading_tag": "h1",
+      "heading_text": "{focus_keyword} in {location}, Kenya",
+      "instructions": "Write 2-3 paragraphs introducing the topic. Include the focus keyword naturally in the first sentence. Mention the company name, its Westlands Nairobi headquarters, and 2-3 target locations. End with a CTA including the phone number. Keep each paragraph under 200 words.",
+      "cta": "Call {phone_1} today for a free consultation."
+    },
+    {
+      "section": "why_it_matters",
+      "heading_tag": "h2",
+      "heading_text": "Why {focus_keyword} Matters in Kenya",
+      "instructions": "Write 2-3 paragraphs on the relevance of this topic in Kenya's current economic and environmental landscape. Reference at least 2 Kenyan cities from the target_locations list. Use at least 3 transition words. Include 1 LSI keyword from the lsi_keyword_bank. Keep each paragraph under 200 words."
+    },
+    {
+      "section": "our_services",
+      "heading_tag": "h2",
+      "heading_text": "Our Services: {service_category} and More Across Kenya",
+      "instructions": "This section must contain exactly 7 H3 subheadings. Each H3 covers one service from service_categories. For each service, write 2-3 short paragraphs (each under 200 words). Reference a different Kenyan city in each H3 block. Use transition words between paragraphs. At least one H3 must mention the primary focus keyword.",
+      "subheadings_count": 7,
+      "subheading_format": "H3: {service_name} in {location}"
+    },
+    {
+      "section": "locations_served",
+      "heading_tag": "h2",
+      "heading_text": "Greenafrica Agri Solutions: Serving Major Cities Across Kenya",
+      "instructions": "Write one short paragraph (3-5 sentences) per city. Cover at least 6 cities from target_locations. For each city, mention a specific service or local context relevant to that city. Avoid bullet points — write in flowing prose. Insert the internal link to the services page at least once in this section."
+    },
+    {
+      "section": "why_choose_us",
+      "heading_tag": "h2",
+      "heading_text": "Why Choose Greenafrica Agri Solutions for {focus_keyword}?",
+      "instructions": "Write 4-5 short paragraphs, each highlighting one unique selling point: local expertise, multidisciplinary team, transparent pricing, sustainable approach, proven track record. Each paragraph must be under 200 words. Use transition words to connect paragraphs. Include the internal link to the About page once."
+    },
+    {
+      "section": "how_to_get_started",
+      "heading_tag": "h2",
+      "heading_text": "How to Get Started with {focus_keyword} in {location}",
+      "instructions": "Write 1-2 paragraphs explaining the simple steps to engage Greenafrica. Include the phone number, email, physical address, and business hours. Add internal links to the Contact and Services pages. End with a strong CTA.",
+      "contact_block": {
+        "phone": "{phone_1}",
+        "email": "{email_1}",
+        "address": "{address}",
+        "hours": "{hours}"
+      }
+    },
+    {
+      "section": "faq",
+      "heading_tag": "h2",
+      "heading_text": "Frequently Asked Questions About {focus_keyword} in Kenya",
+      "instructions": "Generate exactly 5 FAQ pairs. Each question must be answerable in 2-5 sentences. Questions should naturally include the focus keyword, location, or related LSI keywords. Answers must be concise, factual, and include at least one mention of Greenafrica Agri Solutions.",
+      "faq_count": 5,
+      "format": [
+        {"question": "Q1 text here", "answer": "A1 text here"},
+        {"question": "Q2 text here", "answer": "A2 text here"},
+        {"question": "Q3 text here", "answer": "A3 text here"},
+        {"question": "Q4 text here", "answer": "A4 text here"},
+        {"question": "Q5 text here", "answer": "A5 text here"}
+      ]
+    },
+    {
+      "section": "footer_cta",
+      "heading_tag": "h2",
+      "heading_text": "Contact Greenafrica Agri Solutions Today",
+      "instructions": "Write 1 short closing paragraph (3-5 sentences) reinforcing the CTA. Include the company name, focus keyword, primary location, phone number, and a link to the contact page. Keep it under 100 words."
+    }
+  ],
+
+  "output_format": {
+    "format": "json",
+    "fields": {
+      "meta_title": "string",
+      "meta_description": "string",
+      "slug": "string",
+      "category": "string",
+      "tags": "array of strings",
+      "focus_keyword": "string",
+      "location": "string",
+      "sections": [
+        {
+          "section_id": "string — matches article_structure[].section",
+          "heading_tag": "string — h1, h2, or h3",
+          "heading_text": "string",
+          "content": "string — full HTML or plain text body for this section",
+          "subsections": [
+            {
+              "heading_tag": "h3",
+              "heading_text": "string",
+              "content": "string"
+            }
+          ]
+        }
+      ],
+      "faq": [
+        {"question": "string", "answer": "string"}
+      ],
+      "word_count": "integer",
+      "internal_links_used": "array of strings — URLs used in the article",
+      "lsi_keywords_used": "array of strings"
+    }
+  },
+
+  "system_prompt": "You are an expert SEO content writer for Greenafrica Agri Solutions (https://greenafrica.co.ke), a professional agri-solutions, construction, and consulting company based in Westlands, Nairobi, Kenya. Your job is to write fully SEO-optimized blog articles strictly following the provided template structure. Always output valid JSON matching the output_format schema. Never add sections not in the template. Always include the company contact details where instructed. Always use at least 4 internal links from the internal_links object. Always target the provided focus_keyword and location. Keep word count between 1000 and 1500 words. Use transition words for at least 30% of sentences. Write 75% of sentences under 20 words. Never exceed 200 words per paragraph.",
+
+  "user_prompt_template": "Write a blog article for Greenafrica Agri Solutions using the following inputs:\n- Focus Keyword: {focus_keyword}\n- Location: {location}\n- Service Category: {service_category}\n\nFollow the article_structure exactly. Output valid JSON matching the output_format schema defined in this template."
+}

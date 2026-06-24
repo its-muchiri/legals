@@ -1,0 +1,217 @@
+{
+  "template_meta": {
+    "site": "Elisa Motors",
+    "site_url": "https://elisamotors.co.ke",
+    "author": "Elisa Motors Team",
+    "language": "en",
+    "word_count_min": 2400,
+    "word_count_max": 3200,
+    "tone": "professional, locally relevant, conversion-focused, trustworthy",
+    "brand_voice": "trustworthy, expert, transparent, customer-focused, solutions-oriented, locally-rooted, KRA & NTSA compliant, value-driven, results-driven, responsive, experienced, end-to-end"
+  },
+
+  "company_info": {
+    "name": "Elisa Motors",
+    "phone_1": "",
+    "phone_2": "",
+    "whatsapp": "https://wa.me/254000000000",
+    "email_1": "info@elisamotors.co.ke",
+    "address": "Nairobi, Kenya",
+    "hours": "Monday to Saturday, 8:00 AM to 6:00 PM",
+    "port_of_entry": "Mombasa Port (Kilindini)"
+  },
+
+  "internal_links": {
+    "homepage": "https://elisamotors.co.ke/",
+    "import_guide": "https://elisamotors.co.ke/step-by-step-guide-to-importing-a-car-to-kenya/",
+    "duty_calculator": "https://elisamotors.co.ke/kenya-car-import-duty-calculator/",
+    "import_costs_breakdown": "https://elisamotors.co.ke/car-import-costs-kenya-breakdown/",
+    "import_from_japan": "https://elisamotors.co.ke/import-cars-from-japan-to-kenya/",
+    "import_from_uk": "https://elisamotors.co.ke/how-to-import-a-car-to-kenya-from-uk/",
+    "import_from_dubai": "https://elisamotors.co.ke/import-car-from-dubai-to-kenya/",
+    "import_from_germany": "https://elisamotors.co.ke/import-car-from-germany-to-kenya/",
+    "import_from_usa": "https://elisamotors.co.ke/import-car-from-usa-to-kenya/",
+    "clearing_forwarding": "https://elisamotors.co.ke/clearing-and-forwarding-agents-in-kenya-for-cars/",
+    "mombasa_port_clearance": "https://elisamotors.co.ke/how-to-clear-imported-car-at-mombasa-port/",
+    "ntsa_registration": "https://elisamotors.co.ke/ntsa-import-car-registration-kenya/",
+    "japanese_used_market": "https://elisamotors.co.ke/japanese-used-car-market-in-kenya/",
+    "uk_used_for_sale": "https://elisamotors.co.ke/uk-used-cars-for-sale-in-kenya/",
+    "best_import_companies": "https://elisamotors.co.ke/best-car-import-companies-in-kenya/",
+    "best_import_agents_nairobi": "https://elisamotors.co.ke/best-car-import-agents-nairobi/",
+    "direct_dealers_nairobi": "https://elisamotors.co.ke/direct-car-dealers-nairobi/",
+    "car_financing": "https://elisamotors.co.ke/car-financing-options-in-kenya/",
+    "car_insurance": "https://elisamotors.co.ke/car-insurance-kenya-comparison/",
+    "genuine_parts": "https://elisamotors.co.ke/genuine-car-parts-kenya/"
+  },
+
+  "target_locations": [
+    "Nairobi", "Mombasa", "Kisumu", "Nakuru", "Eldoret",
+    "Thika", "Nyeri", "Machakos", "Naivasha", "Kitengela",
+    "Karen", "Westlands", "Kilimani", "Ruiru", "Kiambu",
+    "Mlolongo", "Kariobangi", "Mombasa Road", "Industrial Area Nairobi",
+    "Meru", "Kakamega", "Kisii"
+  ],
+
+  "service_categories": [
+    "Car Import from Japan",
+    "Car Import from UK",
+    "Car Import from Dubai, Germany & USA",
+    "Clearing & Forwarding at Mombasa Port",
+    "KRA Import Duty Calculation & Tax Advisory",
+    "NTSA Registration & Roadworthiness",
+    "Pre-shipment Inspection (JEVIC / QISJ)",
+    "Direct Car Dealership & Showroom Sales",
+    "Pre-Order & Auction Sourcing (Japan / UK)",
+    "Car Financing, Insurance & Trade-In",
+    "Genuine Spare Parts & After-Sales Service",
+    "Luxury, Salvage & Classic Car Imports"
+  ],
+
+  "lsi_keyword_bank": [
+    "car import duty Kenya",
+    "KRA import duty calculator",
+    "NTSA registration imported car",
+    "Mombasa port clearing and forwarding",
+    "JEVIC pre-shipment inspection",
+    "QISJ pre-shipment inspection",
+    "CIF value Kenya",
+    "IDF fee Kenya",
+    "railway development levy Kenya",
+    "excise duty imported car Kenya",
+    "VAT on car imports Kenya",
+    "bill of lading car import",
+    "customs valuation imported cars",
+    "car import age limit Kenya",
+    "right hand drive Kenya",
+    "Japanese used cars for sale Kenya",
+    "UK used cars for sale Kenya",
+    "auction cars Japan",
+    "best car import companies Kenya",
+    "direct car dealers Nairobi",
+    "car bazaar Nairobi",
+    "car financing Kenya",
+    "trade-in car value Kenya",
+    "genuine spare parts Kenya"
+  ],
+
+  "transition_words": [
+    "Additionally", "Furthermore", "Moreover", "Therefore",
+    "Consequently", "However", "Meanwhile", "Subsequently",
+    "For instance", "For example", "Similarly", "Likewise",
+    "As a result", "In fact", "Conversely", "Nevertheless"
+  ],
+
+  "seo_rules": {
+    "focus_keyword_in_h1": true,
+    "focus_keyword_in_first_paragraph": true,
+    "focus_keyword_in_meta_title": true,
+    "focus_keyword_in_meta_description": true,
+    "focus_keyword_in_at_least_one_h2": true,
+    "keyword_density_percent_max": 2.5,
+    "transition_word_coverage_percent_min": 30,
+    "sentences_under_20_words_percent_min": 75,
+    "max_paragraph_words": 200,
+    "max_section_words_before_subheading": 300,
+    "word_count_min": 2400,
+    "internal_links_min": 20,
+    "faq_count": 5
+  },
+
+  "article_structure": [
+    {
+      "section": "meta",
+      "fields": {
+        "meta_title": "{focus_keyword} in {location} | Elisa Motors Kenya",
+        "meta_description": "Looking for {focus_keyword} in {location}, Kenya? Elisa Motors delivers expert {service_category} across {location} and major Kenyan cities. Enquire today.",
+        "slug": "{focus_keyword_slug}-{location_slug}",
+        "category": "{service_category}",
+        "tags": ["{focus_keyword}", "{location}", "Kenya", "{service_category}", "Elisa Motors", "car import Kenya"]
+      }
+    },
+    {
+      "section": "h1_intro",
+      "heading_tag": "h1",
+      "heading_text": "{focus_keyword} in {location}, Kenya",
+      "instructions": "Write 2-3 paragraphs (150-220 words total) introducing the topic. Focus keyword in the first two sentences. Mention Elisa Motors, Kenya, and 2-3 target locations. End with a phone/WhatsApp CTA and link to the homepage. Each paragraph under 200 words.",
+      "cta": "Chat with Elisa Motors on WhatsApp or email info@elisamotors.co.ke today."
+    },
+    {
+      "section": "why_it_matters",
+      "heading_tag": "h2",
+      "heading_text": "Why {focus_keyword} Matters in Kenya",
+      "instructions": "Write 2-3 paragraphs on the relevance of this topic in Kenya's current car market, KRA duty regime, or Mombasa port logistics. Reference at least 2 Kenyan cities. Use 3+ transition words. Weave in 2+ LSI keywords. Link to the import duty calculator or costs breakdown page. Keep each paragraph under 200 words."
+    },
+    {
+      "section": "our_services",
+      "heading_tag": "h2",
+      "heading_text": "Our Services: {service_category} and More Across Kenya",
+      "instructions": "This section must contain EXACTLY 7 H3 subheadings drawn from service_categories. Each H3 covers one service. For each H3 write 2-3 short paragraphs (each under 200 words). Reference a different Kenyan city/suburb in each H3. Use transition words between paragraphs. At least one H3 must include the primary focus keyword. Each H3 must contain at least one internal link from internal_links.",
+      "subheadings_count": 7,
+      "subheading_format": "H3: {service_name} in {location}"
+    },
+    {
+      "section": "locations_served",
+      "heading_tag": "h2",
+      "heading_text": "Elisa Motors: Serving Major Cities Across Kenya",
+      "instructions": "Write one short flowing paragraph (3-5 sentences) per city. Cover at least 6 cities from target_locations. For each city, mention a specific service or local context (e.g. Mombasa port clearing, Nairobi NTSA registration, Westlands/Karen direct showroom delivery). No bullet points. Insert at least one link to the homepage or a parent hub."
+    },
+    {
+      "section": "why_choose_us",
+      "heading_tag": "h2",
+      "heading_text": "Why Choose Elisa Motors for {focus_keyword}?",
+      "instructions": "Write 4-5 short paragraphs, each under 200 words, highlighting one USP: local KRA/NTSA expertise, end-to-end Japan/UK sourcing, transparent quoting, Mombasa port clearing partnerships, proven import track record. Use transition words. Include at least one internal link (e.g. to best_import_companies or best_import_agents_nairobi)."
+    },
+    {
+      "section": "how_to_get_started",
+      "heading_tag": "h2",
+      "heading_text": "How to Get Started with {focus_keyword} in {location}",
+      "instructions": "Write 1-2 paragraphs explaining engagement steps. Include phone (or WhatsApp CTA if phone empty), email, address, and business hours. Add internal links to the homepage and at least one services/process page (duty_calculator, clearing_forwarding, or ntsa_registration). End with a strong CTA.",
+      "contact_block": {
+        "phone": "{phone_1}",
+        "whatsapp": "{whatsapp}",
+        "email": "{email_1}",
+        "address": "{address}",
+        "hours": "{hours}"
+      }
+    },
+    {
+      "section": "faq",
+      "heading_tag": "h2",
+      "heading_text": "Frequently Asked Questions About {focus_keyword} in Kenya",
+      "instructions": "Generate EXACTLY 5 FAQ pairs. Each question targets a featured-snippet query (how much, how long, what is, can I, do I need). Each answer 40-100 words and 2-5 sentences. Mention Elisa Motors in at least one answer. Include 2 internal links inside the FAQ block. Naturally weave in focus keyword, location, or LSI keywords.",
+      "faq_count": 5,
+      "format": [
+        {"question": "Q1 text here", "answer": "A1 text here"},
+        {"question": "Q2 text here", "answer": "A2 text here"},
+        {"question": "Q3 text here", "answer": "A3 text here"},
+        {"question": "Q4 text here", "answer": "A4 text here"},
+        {"question": "Q5 text here", "answer": "A5 text here"}
+      ]
+    },
+    {
+      "section": "footer_cta",
+      "heading_tag": "h2",
+      "heading_text": "Contact Elisa Motors Today",
+      "instructions": "Write 1 short closing paragraph (3-5 sentences, under 120 words). Reinforce CTA with the company name, focus keyword, primary city, phone/WhatsApp, email, and a link to the homepage."
+    }
+  ],
+
+  "output_format": {
+    "format": "json",
+    "fields": {
+      "title": "string",
+      "slug": "string",
+      "meta_description": "string (150-160 chars)",
+      "seo_title": "string (<60 chars)",
+      "focus_keyphrase": "string",
+      "excerpt": "string",
+      "categories": "array of strings",
+      "tags": "array of strings",
+      "content": "string — full HTML body following article_structure"
+    }
+  },
+
+  "system_prompt": "You are an expert SEO content writer for Elisa Motors (https://elisamotors.co.ke), a Kenyan car import, dealership, and clearing-and-forwarding company. Always output valid JSON matching the output_format schema. Never add sections not in the template. Always include the company contact details where instructed. Always use at least 20 internal links from the elisamotors.co.ke sitemap. Always target the provided focus_keyword and location. Word count minimum 2,400 words. Use transition words for at least 30% of sentences. Write 75% of sentences under 20 words. Never exceed 200 words per paragraph. Never link to legal-counsel.net, american-counsel.com, or greenafrica.co.ke.",
+
+  "user_prompt_template": "Write a blog article for Elisa Motors using the following inputs:\n- Focus Keyword: {focus_keyword}\n- Location: {location}\n- Service Category: {service_category}\n\nFollow the article_structure exactly. Output valid JSON matching the output_format schema defined in this template."
+}
